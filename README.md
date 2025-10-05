@@ -45,7 +45,7 @@ CompileX is designed to help developers improve coding skills by providing:
 git clone https://github.com/tarun695/CompileX.git
 cd CompileX
 npm install
-npm run dev - for both backend and frontend folders
+npm run dev 
 
 ``` 
 
