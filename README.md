@@ -47,6 +47,8 @@ cd CompileX
 npm install
 npm run dev - for both backend and frontend folders
 
+``` 
+
 ---
 ## Usage
 
