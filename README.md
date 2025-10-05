@@ -47,6 +47,65 @@ cd CompileX
 npm install
 npm run dev - for both backend and frontend folders
 
+---
+## Usage
+
+- **For Developers/Users:**
+  - Sign up or log in to start solving coding challenges.
+  - Browse problems by tags or difficulty.
+  - Track your progress and view solved problems.
+
+- **For Admins:**
+  - Log in to the admin panel.
+  - Manage coding problems, test cases, and difficulty levels.
+  - Monitor user progress and manage leaderboards.
+
+---
+
+## Screenshots
+
+**User Panel:**
+![User Homepage](screenshots/Homepage.png)
+
+**Admin Panel:**
+![Admin Dashboard](screenshots/Admin.png)
+
+---
+
+## Technologies Used
+
+**Frontend:**
+- React
+- Tailwind CSS
+- React Router
+- Redux
+- Daisy UI
+
+**Backend:**
+- Node.js
+- Express
+- Redis (for caching and performance optimization)
+- Rate Limiter (to prevent API abuse)
+
+**Database:**
+- MongoDB
+- Mongoose
+
+**Authentication & Security:**
+- JWT (JSON Web Tokens)
+- bcrypt for password hashing
+
+**Media & Storage:**
+- Cloudinary (for image/video hosting and management)
+
+
+
+
+
+
+
+
+
 
   
 
