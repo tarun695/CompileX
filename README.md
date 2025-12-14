@@ -1,3 +1,6 @@
+🌐 **Live Demo:** [CompileX – Deployed Website](http://13.204.47.34/signup)
+
+
 # CompileX 🚀
 A modern coding platform for developers to practice algorithms, compete in challenges, and improve problem-solving skills.
 
